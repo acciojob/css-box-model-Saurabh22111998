@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+.margin{
+	padding:20px;
+	border:1px solid black;
+}
+.border{
+	padding:15px ;
+	border:1px solid black;
+	background:blue;
+}
+.padding{
+	padding:50px;
+	border:1px solid black;
+	background:lightblue;
+}
+.width{
+	padding:20px;
+	border:1px solid black;
+	
+}
+.content{
+	padding:20px;
+	border:1px solid black;
+}
+.box-model{
+	border:1px solid black;
+}
